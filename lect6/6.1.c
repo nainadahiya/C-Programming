@@ -92,4 +92,4 @@ int main(){
     }
     candidate++;
     return 0;
-} 
+}  
